@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R10 Old Footprint=RES 1/2W New Footprint=RES-SM-0603
+Change Component Comment : Designator=R10 Old Comment=RESISTOR New Comment=RESISTOR SMD
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES 1/2W"; UniqueID = "\ZRNTVZBY" ("\ZRNTVZBY")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-1
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Member To Class: ClassName=LED-DRIVER Member=Component R1 RESISTOR SMD
+Added Member To Class: ClassName=LED-DRIVER Member=Component R2 RESISTOR SMD
+Added Member To Class: ClassName=LED-DRIVER Member=Component R3 RESISTOR SMD

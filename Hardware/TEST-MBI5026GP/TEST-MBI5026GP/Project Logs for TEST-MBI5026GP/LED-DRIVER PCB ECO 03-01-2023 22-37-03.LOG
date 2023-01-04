@@ -1,0 +1,142 @@
+Added Component: Designator=C1(CAP-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0603_Blue)
+Added Component: Designator=D2(LED_0603_Blue)
+Added Component: Designator=D3(LED_0603_Blue)
+Added Component: Designator=D4(LED_0603_Blue)
+Added Component: Designator=D5(LED_0603_Blue)
+Added Component: Designator=D6(LED_0603_Blue)
+Added Component: Designator=D7(LED_0603_Blue)
+Added Component: Designator=D8(LED_0603_Blue)
+Added Component: Designator=D9(LED_0603_Blue)
+Added Component: Designator=D10(LED_0603_Blue)
+Added Component: Designator=D11(LED_0603_Blue)
+Added Component: Designator=D12(LED_0603_Blue)
+Added Component: Designator=D13(LED_0603_Blue)
+Added Component: Designator=D14(LED_0603_Blue)
+Added Component: Designator=D15(LED_0603_Blue)
+Added Component: Designator=D16(LED_0603_Blue)
+Added Component: Designator=D17(SS34)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "8080433"; VariantName = "[No Variations]"
+Added Component: Designator=D18(LED_0603_Blue)
+Added Component: Designator=IC1(MBI5026GP)
+Added Component: Designator=JDC1(DC-IN)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=P1(JP4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "500K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "1K2"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=+5 Pin=D2-1
+Added Pin To Net: NetName=+5 Pin=D3-1
+Added Pin To Net: NetName=+5 Pin=D4-1
+Added Pin To Net: NetName=+5 Pin=D5-1
+Added Pin To Net: NetName=+5 Pin=D6-1
+Added Pin To Net: NetName=+5 Pin=D7-1
+Added Pin To Net: NetName=+5 Pin=D8-1
+Added Pin To Net: NetName=+5 Pin=D9-1
+Added Pin To Net: NetName=+5 Pin=D10-1
+Added Pin To Net: NetName=+5 Pin=D11-1
+Added Pin To Net: NetName=+5 Pin=D12-1
+Added Pin To Net: NetName=+5 Pin=D13-1
+Added Pin To Net: NetName=+5 Pin=D14-1
+Added Pin To Net: NetName=+5 Pin=D15-1
+Added Pin To Net: NetName=+5 Pin=D16-1
+Added Pin To Net: NetName=+5 Pin=D17-K
+Added Pin To Net: NetName=+5 Pin=IC1-24
+Added Pin To Net: NetName=+5 Pin=R3-1
+Added Net: Name=+5
+Added Pin To Net: NetName=CLK Pin=IC1-3
+Added Pin To Net: NetName=CLK Pin=P1-2
+Added Net: Name=CLK
+Added Pin To Net: NetName=DATA Pin=IC1-2
+Added Pin To Net: NetName=DATA Pin=P1-1
+Added Net: Name=DATA
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=D18-2
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-21
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LATCH Pin=IC1-4
+Added Pin To Net: NetName=LATCH Pin=P1-3
+Added Pin To Net: NetName=LATCH Pin=R1-2
+Added Net: Name=LATCH
+Added Pin To Net: NetName=LED1 Pin=D15-2
+Added Pin To Net: NetName=LED1 Pin=IC1-5
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=D16-2
+Added Pin To Net: NetName=LED2 Pin=IC1-6
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=D13-2
+Added Pin To Net: NetName=LED3 Pin=IC1-7
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=D14-2
+Added Pin To Net: NetName=LED4 Pin=IC1-8
+Added Net: Name=LED4
+Added Pin To Net: NetName=LED5 Pin=D11-2
+Added Pin To Net: NetName=LED5 Pin=IC1-9
+Added Net: Name=LED5
+Added Pin To Net: NetName=LED6 Pin=D12-2
+Added Pin To Net: NetName=LED6 Pin=IC1-10
+Added Net: Name=LED6
+Added Pin To Net: NetName=LED7 Pin=D9-2
+Added Pin To Net: NetName=LED7 Pin=IC1-11
+Added Net: Name=LED7
+Added Pin To Net: NetName=LED8 Pin=D10-2
+Added Pin To Net: NetName=LED8 Pin=IC1-12
+Added Net: Name=LED8
+Added Pin To Net: NetName=LED9 Pin=D7-2
+Added Pin To Net: NetName=LED9 Pin=IC1-13
+Added Net: Name=LED9
+Added Pin To Net: NetName=LED10 Pin=D8-2
+Added Pin To Net: NetName=LED10 Pin=IC1-14
+Added Net: Name=LED10
+Added Pin To Net: NetName=LED11 Pin=D5-2
+Added Pin To Net: NetName=LED11 Pin=IC1-15
+Added Net: Name=LED11
+Added Pin To Net: NetName=LED12 Pin=D6-2
+Added Pin To Net: NetName=LED12 Pin=IC1-16
+Added Net: Name=LED12
+Added Pin To Net: NetName=LED13 Pin=D3-2
+Added Pin To Net: NetName=LED13 Pin=IC1-17
+Added Net: Name=LED13
+Added Pin To Net: NetName=LED14 Pin=D4-2
+Added Pin To Net: NetName=LED14 Pin=IC1-18
+Added Net: Name=LED14
+Added Pin To Net: NetName=LED15 Pin=D1-2
+Added Pin To Net: NetName=LED15 Pin=IC1-19
+Added Net: Name=LED15
+Added Pin To Net: NetName=LED16 Pin=D2-2
+Added Pin To Net: NetName=LED16 Pin=IC1-20
+Added Net: Name=LED16
+Added Pin To Net: NetName=NetD17_A Pin=D17-A
+Added Pin To Net: NetName=NetD17_A Pin=JDC1-1
+Added Net: Name=NetD17_A
+Added Pin To Net: NetName=NetD18_1 Pin=D18-1
+Added Pin To Net: NetName=NetD18_1 Pin=R3-2
+Added Net: Name=NetD18_1
+Added Pin To Net: NetName=NetIC1_23 Pin=IC1-23
+Added Pin To Net: NetName=NetIC1_23 Pin=R2-2
+Added Net: Name=NetIC1_23
+Added Class: Name=LED-DRIVER

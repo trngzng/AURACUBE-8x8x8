@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=+5 Pin=C1-2
+Removed Pin From Net: NetName=+5 Pin=D17-K
+Removed Pin From Net: NetName=+5 Pin=IC1-24
+Removed Pin From Net: NetName=DATA Pin=P1-1
+Removed Pin From Net: NetName=CLK Pin=P1-2
+Removed Pin From Net: NetName=LATCH Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=LATCH Pin=R1-2
+Removed Pin From Net: NetName=+5 Pin=R3-1
+Change Component Designator: OldDesignator=R2 NewDesignator=R11
+Change Component Designator: OldDesignator=R3 NewDesignator=R12
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES-SM-0603"; UniqueID = "\XBSNSZPH" ("\XBSNSZPH")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT95P245X110-3N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier 1 Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.vn/ProductDetail/Vishay-Semiconductors/SI2312BDS-T1-E3/?qs=%2Fha2pyFaduiZW8HKJbgU3%2FZCFULz2JfGTitrLvt62%2FLefe%252B0DX8Hbw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "SI2312BDS-T1-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 P/N"; Value = "781-SI2312BDS-E3"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT95P245X110-3N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier 1 Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.vn/ProductDetail/Vishay-Semiconductors/SI2312BDS-T1-E3/?qs=%2Fha2pyFaduiZW8HKJbgU3%2FZCFULz2JfGTitrLvt62%2FLefe%252B0DX8Hbw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "SI2312BDS-T1-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 P/N"; Value = "781-SI2312BDS-E3"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT95P245X110-3N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier 1 Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.vn/ProductDetail/Vishay-Semiconductors/SI2312BDS-T1-E3/?qs=%2Fha2pyFaduiZW8HKJbgU3%2FZCFULz2JfGTitrLvt62%2FLefe%252B0DX8Hbw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "SI2312BDS-T1-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 P/N"; Value = "781-SI2312BDS-E3"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CLK Pin=Q1-3
+Added Pin To Net: NetName=DATA Pin=Q2-3
+Added Pin To Net: NetName=LATCH Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=CLK Pin=R7-1
+Added Pin To Net: NetName=DATA Pin=R8-1
+Added Pin To Net: NetName=LATCH Pin=R9-1
+Added Pin To Net: NetName=+5 Pin=R10-1
+Change Net Name : Old Net Name=+5 New Net Name=NetD1_1
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=D17-K
+Added Pin To Net: NetName=+5 Pin=IC1-24
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Pin To Net: NetName=+5 Pin=R2-2
+Added Pin To Net: NetName=+5 Pin=R3-2
+Added Pin To Net: NetName=+5 Pin=R7-2
+Added Pin To Net: NetName=+5 Pin=R8-2
+Added Pin To Net: NetName=+5 Pin=R9-2
+Added Pin To Net: NetName=+5 Pin=R10-2
+Added Pin To Net: NetName=+5 Pin=R12-1
+Added Net: Name=+5
+Added Pin To Net: NetName=mCLK Pin=P1-2
+Added Pin To Net: NetName=mCLK Pin=Q1-1
+Added Net: Name=mCLK
+Added Pin To Net: NetName=mDATA Pin=P1-1
+Added Pin To Net: NetName=mDATA Pin=Q2-1
+Added Net: Name=mDATA
+Added Pin To Net: NetName=mLATCH Pin=P1-3
+Added Pin To Net: NetName=mLATCH Pin=Q3-1
+Added Net: Name=mLATCH
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R4-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R5-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R6-2
+Added Net: Name=NetQ3_2
+Added Member To Class: ClassName=LED-DRIVER Member=Component Q1 Si2312BDS
+Added Member To Class: ClassName=LED-DRIVER Member=Component Q2 Si2312BDS
+Added Member To Class: ClassName=LED-DRIVER Member=Component Q3 Si2312BDS
+Added Member To Class: ClassName=LED-DRIVER Member=Component R4 RESISTOR SMD
+Added Member To Class: ClassName=LED-DRIVER Member=Component R5 RESISTOR SMD
+Added Member To Class: ClassName=LED-DRIVER Member=Component R6 RESISTOR SMD
+Added Member To Class: ClassName=LED-DRIVER Member=Component R7 RESISTOR SMD
+Added Member To Class: ClassName=LED-DRIVER Member=Component R8 RESISTOR SMD
+Added Member To Class: ClassName=LED-DRIVER Member=Component R9 RESISTOR SMD
+Added Member To Class: ClassName=LED-DRIVER Member=Component R10 RESISTOR
+Added Member To Class: ClassName=LED-DRIVER Member=Component R11 RESISTOR SMD
+Added Member To Class: ClassName=LED-DRIVER Member=Component R12 RESISTOR SMD
