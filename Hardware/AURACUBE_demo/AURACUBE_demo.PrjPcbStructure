@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=01_Block_Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=02_Power Diagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=03_01_MCU_ESP32.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=03_02_MCU_STM32F103.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=04_IC_CONTROL.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01_Block_Diagram.SchDoc|FileName=05_TFT_LCD_SD_Card.SchDoc|SheetNumber=6
